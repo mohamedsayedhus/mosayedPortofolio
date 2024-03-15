@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Sayed</h1>
 <h3 align="center">A passionate Data Analysis & BI developer from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII")
+<img align="right" alt="Analysis" width="400" src="[https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII](https://assets-global.website-files.com/6023fdfa97944f09d6a27ac6/635b7a1546b2cc0d42002ceb_Excel%20Data%20Analyst%20Ultimate%20Guide.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsayedhus&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsayedhus" /> </p>
 

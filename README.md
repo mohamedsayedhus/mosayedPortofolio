@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mosayed26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Mosayed26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Sayed" height="30" width="40" /></a>
-<a href="https://fb.com/mohammad sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MoHammad Sayed" height="30" width="40" /></a>
+<a href="https://twitter.com/@Mosayed26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Mosayed26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Mohamed Sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Sayed" height="30" width="40" /></a>
+<a href="https://fb.com/Mohammad Sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MoHammad Sayed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII))](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Sayed</h1>
 <h3 align="center">A passionate Data Analysis & BI developer from Egypt</h3>
-<img align="right" alt="Analysis" width="400" src="[https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII](https://assets-global.website-files.com/6023fdfa97944f09d6a27ac6/635b7a1546b2cc0d42002ceb_Excel%20Data%20Analyst%20Ultimate%20Guide.webp">
+(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsayedhus&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsayedhus" /> </p>
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Mosayed26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Mosayed26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Mohamed Sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Sayed" height="30" width="40" /></a>
-<a href="https://fb.com/Mohammad Sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MoHammad Sayed" height="30" width="40" /></a>
+<a href="https://twitter.com/@mosayed26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mosayed26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-sayed-3a320b20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed sayed" height="30" width="40" /></a>
+<a href="https://fb.com/mohammad sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammad sayed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

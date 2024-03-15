@@ -1,13 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Sayed</h1>
 <h3 align="center">A passionate Data Analysis & BI developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsayedhus&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsayedhus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsayedhus" alt="mohamedsayedhus" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mosayed26" target="blank"><img src="https://img.shields.io/twitter/follow/@mosayed26?logo=twitter&style=for-the-badge" alt="@mosayed26" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 
 - 🔭 I’m currently working on **SM Analysis**
 
